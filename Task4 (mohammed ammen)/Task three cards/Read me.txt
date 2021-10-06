@@ -1,0 +1,7 @@
+Make three cards using bootstrap and put these variables on it ( name , email , phone )
+
+
+Put social links in variables ( f , t , y ) and put these variables in links
+
+
+Make 4 pages ( home , about , contact , profile ) and link to these pages using navbar ( use bootstrap )

@@ -1,0 +1,29 @@
+.navbar {
+    /* padding: 15px; */
+}
+
+.container {
+    margin-top: 50px;
+}
+
+.links {
+    display: flex;
+    justify-content: start;
+}
+
+.links a {
+    margin: 5px;
+}
+
+@media( max-width: 280px) {
+    .links .btn {
+        font-size: 2px;
+    }
+    .card-text {
+        font-size: 12px;
+    }
+}
+
+.col {
+    margin-bottom: 20px;
+}

@@ -1,0 +1,4 @@
+you have two variables( $x =50 , $y=100 ) - swap values of these variables with each other 
+
+
+calculate the area of a triangle and print it
