@@ -1,6 +1,10 @@
 What is HTTP?
-HTTP stands for Hypertext Transfer Protocol, and it is a protocol – or a prescribed order and syntax for presenting information – used for transferring data over a network. Most information that is sent over the Internet, including website content and API calls, uses the HTTP protocol. There are two main kinds of HTTP messages: requests and responses.
+HTTP stands for Hypertext Transfer Protocol, and it is a protocol – or a prescribed order and syntax for presenting information – used for transferring data over a network. 
+Most information that is sent over the Internet,
+including website content and API calls, uses the HTTP protocol.
+There are two main kinds of HTTP messages: requests and responses.
 
 
 What is HTTPS?
-HTTPS stands for "secure." HTTPS uses TLS (or SSL) to encrypt HTTP requests and responses, so in the example above, instead of the text, an attacker would see a bunch of seemingly random characters.
+HTTPS stands for "secure." HTTPS uses TLS (or SSL) to encrypt HTTP requests and responses,
+so in the example above, instead of the text, an attacker would see a bunch of seemingly random characters.
