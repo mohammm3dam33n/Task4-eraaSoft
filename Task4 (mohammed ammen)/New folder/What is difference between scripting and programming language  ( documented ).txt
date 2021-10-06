@@ -1,5 +1,12 @@
 A programming language is a language used by humans to give instructions to a machine.
-A scripting language is a subset of programming language that is used to produce scripts, which are sets of instructions that automate tasks that would otherwise be performed manually by a human. Of course, these "tasks" are essentially a human giving instructions to a machine, as described above, so you could say that a script instructs a machine on what instructions to give itself that a human would otherwise give.
-Sometimes the terms programming language and scripting language are used colloquially to describe compiled programming languages and interpreted programming languages, respectively. Compiled programming languages are languages whose instructions are translated (compiled) directly into machine code, whereas interpreted languages are those that require a program known as an interpreter, which interprets instructions in terms of previously compiled machine code.
-Markup languages annotate the content of a document with information on the document's structure or presentation. More recently, the task of annotating documents with information about their presentation has been delegated to style sheet languages, such as Cascading Style Sheets (CSS). Both are related to historical, physical markup and style sheets as seen in publishing and other fields.
-I would say that the boundary between scripting languages and programming languages is not very well-defined. On the other hand, there is a universal consensus that markup languages are different from programming and scripting languages. I'm no computer scientist, or even much of a programmer, but I think I took a good crack at it.
+A scripting language is a subset of programming language that is used to produce scripts,
+which are sets of instructions that automate tasks that would otherwise be performed manually by a human.
+Of course, these "tasks" are essentially a human giving instructions to a machine, as described above, so you could say that a script instructs a machine on what instructions to give itself that a human would otherwise give.
+Sometimes the terms programming language and scripting language are used colloquially to describe compiled programming languages and interpreted programming languages, respectively.
+Compiled programming languages are languages whose instructions are translated (compiled) directly into machine code, whereas interpreted languages are those that require a program known as an interpreter, which interprets instructions in terms of previously compiled machine code.
+Markup languages annotate the content of a document with information on the document's structure or presentation.
+More recently, the task of annotating documents with information about their presentation has been delegated to style sheet languages, such as Cascading Style Sheets (CSS).
+Both are related to historical, physical markup and style sheets as seen in publishing and other fields.
+I would say that the boundary between scripting languages and programming languages is not very well-defined.
+On the other hand, there is a universal consensus that markup languages are different from programming and scripting languages.
+I'm no computer scientist, or even much of a programmer, but I think I took a good crack at it.
